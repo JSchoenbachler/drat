@@ -4,7 +4,7 @@ Depends: R (>= 3.6)
 Imports: data.table (>= 1.11.0), foreach (>= 1.5.0), imputeTS (>= 3.0)
 Suggests: testthat (>= 2.0.0), covr (>= 3.5.0)
 License: GPL-2
-MD5sum: 2a498d895db45bb5785df77ad9e7a0c2
+MD5sum: 4b5f3f920640b62b9767b846b955ca8f
 NeedsCompilation: no
 
 Package: deltaccd
