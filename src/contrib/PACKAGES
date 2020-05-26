@@ -2,9 +2,9 @@ Package: cspgram
 Version: 0.0.0.9003
 Depends: R (>= 3.6)
 Imports: data.table (>= 1.11.0), foreach (>= 1.5.0), imputeTS (>= 3.0)
-Suggests: testthat (>= 2.0.0), covr (>= 3.5.0)
+Suggests: covr (>= 3.5.0)
 License: GPL-2
-MD5sum: e3e3239ac3f3d352cbc54a1f281c91df
+MD5sum: 0ac1893b916192212c82464002b9dd15
 NeedsCompilation: no
 
 Package: deltaccd
