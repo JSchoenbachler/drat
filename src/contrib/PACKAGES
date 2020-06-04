@@ -64,7 +64,7 @@ Imports: data.table (>= 1.12.2), foreach (>= 1.5.0), imputeTS (>= 3.0),
         lomb (>= 1.2)
 Suggests: knitr, rmarkdown
 License: GPL-2
-MD5sum: 9b1a3f15a6ea5a09f9535c6baaf24af8
+MD5sum: 641edd0d5e3cffedb3119869018b29fa
 NeedsCompilation: no
 
 Package: tipa
